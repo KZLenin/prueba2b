@@ -42,3 +42,9 @@ Podemos ver que si se guarda en la base de datos:
 
 ![{E11E0F81-EEE0-4B7C-AFA4-8A7338D241C2}](https://github.com/user-attachments/assets/f4dcdea1-5b94-48a1-9564-cdf9ead0b22c)
 
+
+Estructura de la base de datos:
+
+
+![{33F038ED-0E16-4CFA-BE07-386670E1E310}](https://github.com/user-attachments/assets/c617b932-d821-4fdd-8fc0-c52d7979c642)
+

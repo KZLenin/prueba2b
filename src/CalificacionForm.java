@@ -50,12 +50,13 @@ public class CalificacionForm {
                         ps.setDouble(6, nota4);
                         ps.setDouble(7, nota5);
                         ps.executeUpdate();
-                        JOptionPane.showMessageDialog(null, "Datos ingresados correctamente");
                         Double prom = (nota1+nota2+nota3+nota4+nota5)/5;
                         labelProm.setText(String.valueOf(prom));
                         if(prom>= 60){
                             labelAprov.setText("Aprovado");
                         }  else {labelAprov.setText("Reprovado");}
+                        JOptionPane.showMessageDialog(null, "Datos ingresados correctamente");
+
                     } catch (SQLException ex) {
                         throw new RuntimeException(ex);
                     }

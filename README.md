@@ -1,4 +1,4 @@
-Funcionamiento:
+Funcionamiento: \n
 ![{6864811A-8444-4F90-8413-3F23EB1A3D8E}](https://github.com/user-attachments/assets/24b0c6a6-358e-476e-8dd1-a9ff65f45d7b)
 Las credenciales de prueba son "admin" "admin1234"
 ![{C737AD97-E729-4156-8988-AA2C4922B086}](https://github.com/user-attachments/assets/9cb6885d-c325-4a71-bd9e-bc4259552954)
